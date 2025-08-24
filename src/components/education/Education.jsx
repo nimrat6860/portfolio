@@ -77,7 +77,7 @@ const Education = () => {
               Currently in <span className="font-semibold">3rd Year</span>
             </p>
             <p className="text-gray-700">
-              <span className="font-semibold">CGPA:</span> 9.08
+              <span className="font-semibold">Current CGPA:</span> 9.08
             </p>
           </div>
 
