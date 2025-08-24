@@ -27,7 +27,7 @@ export default function Projects() {
   return (
     <div id="Projects" className="px-6 md:px-20 py-20 bg-blue-950-50 bg-opacity-30 rounded-lg">
   <h1 className="text-3xl font-serif lg:pl-150 md:text-4xl text-white font-bold mb-12 text-center md:text-left">
-    Projects
+    🗁Projects
   </h1>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-10 md:gap-12 justify-items-center">
