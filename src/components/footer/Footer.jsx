@@ -11,7 +11,7 @@ const Footer = () => {
     >
       {/* Contact Title */}
       <div className="text-center md:text-left">
-        <h1 className="text-3xl md:text-5xl font-bold mb-2">Contact</h1>
+        <h1 className="text-3xl md:text-5xl font-bold mb-2">Contact 📲</h1>
         <h3 className="text-sm md:text-lg font-normal">
           Feel free to reach out!
         </h3>
