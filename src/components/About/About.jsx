@@ -9,8 +9,8 @@ const About = () => {
       className="text-white bg-auto bg-opacity-90 shadow-lg rounded-xl p-6 md:p-10 mx-4 md:mx-16 overflow-hidden"
     >
       {/* Section Title */}
-      <h2 className="text-3xl md:text-4xl font-bold mb-6 text-center md:text-left font-serif">
-        About Me
+      <h2 className="text-3xl md:text-4xl font-bold mb-6 text-center md:text-left font-serif lg:pl-135">
+       🙋‍♀️ About Me
       </h2>
 
       {/* Image + Content */}
