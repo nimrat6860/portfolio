@@ -5,7 +5,7 @@ import { MdCloud } from "react-icons/md"; // For Atlas cloud icon
 
 const Technology = () => {
   return (
-    <div id="Technologies" className="p-6 md:p-24">
+    <div id="Technologies" className="p-6 md:p-10 mx-4 md:mx-16 overflow-hidden4">
       <h1 className="text-3xl pl-130 md:text-4xl text-white font-bold font-serif md:text-left mb-12 lg:pl-135">
         👩‍💻Technologies
       </h1>
